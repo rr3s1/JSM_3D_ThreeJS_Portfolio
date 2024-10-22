@@ -14,14 +14,21 @@ You can watch the tutorial here: [JavaScript Mastery Tutorial](https://www.youtu
 
 ## 🛠️ Technologies Used
 
-#Node.js
-#React.js
-#Three.js
-#React Three Fiber
-#React Three Drei
-#Email JS
-#Vite
-#Tailwind CSS
+Node.js
+
+React.js
+
+Three.js
+
+React Three Fiber
+
+React Three Drei
+
+Email JS
+
+Vite
+
+Tailwind CSS
 
 💡 Learning Goals
 Throughout this project, I aim to:
