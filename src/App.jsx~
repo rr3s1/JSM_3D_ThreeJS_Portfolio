@@ -16,7 +16,7 @@ const App = () => {
             <Projects/>
             <Clients/>
             <Contact/>
-            <Footer/>
+            <Footer />
         </main>
     )
 }
