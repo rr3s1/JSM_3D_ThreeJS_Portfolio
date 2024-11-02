@@ -15,7 +15,7 @@ const WorkExperience = () => {
                 <p className="head-text">My Work Experience</p>
 
                 <div className="work-container">
-                    <div className="work-canvas height-full w-full">
+                    <div className="work-canvas">
                         <Canvas>
                             <ambientLight intensity={7}/>
                             <spotLight position={[10, 10, 10]} angle={0.15} penumbra={1}/>

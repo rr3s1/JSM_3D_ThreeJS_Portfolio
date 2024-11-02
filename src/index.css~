@@ -105,7 +105,7 @@ body {
     }
 
     .work-canvas {
-        @apply col-span-1 rounded-lg bg-black-200 border border-black-300;
+        @apply col-span-3 rounded-lg bg-black-200 border border-black-300;
     }
 
     .work-content {
