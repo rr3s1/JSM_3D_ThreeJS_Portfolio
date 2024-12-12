@@ -865,27 +865,18 @@ As this was my first major project, I gained valuable experience in:
 ##### **React Development**
 
 - Knowledge of JSX syntax and how it translates to JavaScript.
-
 - Building and structuring components.
-
 - Passing data and functions as props to components, and managing component communication
-
 - Using built-in hooks like useState, useEffect, useContext, and custom hooks for reusable logic.
-
 - Managing errors during data fetching and updating UI accordingly.
 
 ##### **Three.js and React Three Fiber**
 
 - Learned the basics of 3D rendering in the browser with meshes, geometries, and materials.
-
 - Integrated 3D models and animations into a React app.
-
 - Configured lighting and shadows to enhance realism.
-
 - Implemented camera controls for user interaction.
-
 - Optimized performance to maintain high frame rates.
-
 - Utilized React Three Drei utilities for faster development.
 
 ##### **Tailwind CSS**
