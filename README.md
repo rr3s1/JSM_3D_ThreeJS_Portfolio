@@ -76,7 +76,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/R3SS1/JSM_3D_ThreeJS_Portfolio.git
+git clone https://github.com/r3ss1/JSM_3D_ThreeJS_Portfolio.git
 cd JSM_3D_ThreeJS_Portfolio
 ```
 
