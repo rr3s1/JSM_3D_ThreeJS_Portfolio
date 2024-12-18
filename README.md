@@ -1,5 +1,34 @@
 # ![image](https://github.com/user-attachments/assets/c84d588f-dad3-428c-8c57-42f573e33802)
 
+  <br />
+
+   <img src="https://github.com/user-attachments/assets/a16beb68-8bfe-47c2-90cd-ae1f1e426a2f" >
+  
+  <br /> 
+
+
+<br />
+   <img src="https://github.com/user-attachments/assets/fd28399a-5917-4913-b427-dae54b19401f" >
+ 
+  <br /> 
+
+ 
+ <br />
+   <img src="https://github.com/user-attachments/assets/c97b1607-218e-451e-a6f6-e03e5d12a9cc" >
+  
+  <br /> 
+
+ 
+  <br /> 
+   <img src="https://github.com/user-attachments/assets/3b1e3633-23c3-49da-a346-69f397a7d7eb" >
+ 
+  <br /> <br /> 
+  
+  <br /> 
+   <img src="https://github.com/user-attachments/assets/ba6bc0e5-e822-4377-91b8-6383496b3537" >
+ 
+  <br /> <br />
+  
 ## 📚 Project Overview
 
 This project is based on a tutorial made by Adrian
