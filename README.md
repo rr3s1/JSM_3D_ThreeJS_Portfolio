@@ -29,16 +29,20 @@
  
   <br /> <br />
   
-## 📚 Project Overview
 
-This project is based on a tutorial made by Adrian
-- [JavaScript Mastery](https://www.youtube.com/watch?v=kt0FrkQgw8w&t=3910s&ab_channel=JavaScriptMastery). While I am
-not the original developer of this application, I am documenting my progress.
+<div align="center">
+ This project is based on a tutorial made by Adrian Hajdin - JavaScript Mastery on YT.
+<br><br>
+    <a href="https://www.youtube.com/watch?v=kt0FrkQgw8w&t=3910s&ab_channel=JavaScriptMastery" target="_blank">Project Video</a>
+    <br>
+    <a href="https://github.com/adrianhajdin/threejs-portfolio" target="_blank">Project Source code</a><br><br>
+
+   </div>
 
 ## 🎥 Video Reference
 
 You can watch the tutorial
-here: [JavaScript Mastery Tutorial](https://www.youtube.com/watch?v=kt0FrkQgw8w&t=3910s&ab_channel=JavaScriptMastery).
+here: [JavaScript Mastery Tutorial]().
 
 
 ## 📋 <a name="table">Table of Contents</a>
